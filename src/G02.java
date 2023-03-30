@@ -1,4 +1,7 @@
 public class G02 {
+    public static void main(String[] args) {
+
+
     /*
     Git-GitHub'da projelerimizin uzerinde calisirken temelde 3 adimda islem yapiyoruz
 
@@ -19,7 +22,8 @@ public class G02 {
 
     git push
 
-
-
      */
+        System.out.println("İslem ekleyelim");
+
+    }
 }
