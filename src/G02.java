@@ -24,6 +24,7 @@ public class G02 {
 
      */
         System.out.println("İslem ekleyelim");
+        System.out.println("HEAD");
 
     }
 }
